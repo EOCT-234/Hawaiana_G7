@@ -1,0 +1,61 @@
+---
+title: "Hawaiana_G7"
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
+---
+
+## Escuela profesional:
+
+Ingeniería agrónoma
+
+## Curso:
+
+Cultivos Tropicales
+
+## Ciclo:
+
+IX
+
+## Docente:
+
+Vasquez Garcia, Jheiner
+
+## Integrantes:
+
+Castro Cajo Jhan Franco
+
+Delgado Gomez Mark Antony
+
+Galoc Valqui Hermes
+
+Lalangui Peña Jheferson Ivan
+
+Villa Tochon Jorge Luis
+
+## Variedad:
+
+Hawaiana
+
+## Datos de colecta:
+
+Fecha de colecta: 06/04/2026
+
+Caserío: Nuevo Chirimoto
+
+Distrito: Omia
+
+Provincia: Rodríguez de Mendoza
+
+Región: Amazonas
+
+Altitud:1522 msnm
+
+Material colectado:Semilla vegetativa
+
+## Descripción de la variedad:
+
+La caña de azúcar variedad Hawaiana es una de las opciones más populares y reconocidas en la agricultura tropical, especialmente valorada por su excelente calidad para el consumo humano directo y la producción artesanal. Se distingue a simple vista por tener tallos gruesos, vigorosos y de un color amarillo verdoso que, al exponerse a la luz solar, suele desarrollar tonalidades rojizas o púrpuras muy características.
